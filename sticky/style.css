@@ -1,0 +1,7 @@
+/*ELEMENTO FICA GRUDADO NA TELA DE ACORDO COM A ROLAGEM*/
+div.sticky{
+    position: sticky;
+    top: 0;
+    background: green;
+    border: 4px solid #4CAF50;
+}
